@@ -2,7 +2,7 @@ var btnTranslate = document.querySelector("#btn-translate")
 var inputTxt = document.querySelector("#input-txt")
 var outputDiv = document.querySelector("#output")
 
-var serverURL =	"https://api.funtranslations.com/translate/pirate.json"
+var serverURL =	"https://api.funtranslations.com/translate/chef.json"
 
 
 function translationURL(text)
